@@ -88,7 +88,3 @@ sim/
 - Cross coverage enhancement
 
 ---
-
-## Author
-
-[Your Name]
