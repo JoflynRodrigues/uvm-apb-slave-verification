@@ -65,19 +65,6 @@ Current functional coverage achieved:
 
 ---
 
-## Directory Structure
-
-```text
-rtl/
-tb/
-uvm/
-assertions/
-coverage/
-sim/
-```
-
----
-
 ## Future Improvements
 
 - APB master agent
