@@ -64,14 +64,3 @@ Current functional coverage achieved:
 - QuestaSim / EDA Playground
 
 ---
-
-## Future Improvements
-
-- APB master agent
-- Virtual sequences
-- RAL model integration
-- APB bridge verification
-- Protocol checker VIP
-- Cross coverage enhancement
-
----
